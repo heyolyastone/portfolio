@@ -1,0 +1,27 @@
+.projects {
+  padding: 100px 64px;
+  background-color: var(--color-bg-primary);
+  scroll-margin-top: 80px;
+}
+
+.projects__container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.projects__title {
+  margin: 0 0 48px;
+  color: var(--color-text-primary);
+  font-size: 48px;
+  line-height: 1.1;
+}
+
+.projects__list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
