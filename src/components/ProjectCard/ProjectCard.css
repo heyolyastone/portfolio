@@ -3,6 +3,14 @@
   border-radius: 8px;
   background-color: var(--color-bg-primary);
   box-shadow: 0 8px 30px rgb(18 18 18 / 8%);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 36px rgb(18 18 18 / 14%);
 }
 
 .project-card__image {
@@ -56,6 +64,9 @@
   background-color: var(--color-blue);
   font-weight: 600;
   text-decoration: none;
+  transition:
+    opacity 0.2s ease,
+    background-color 0.2s ease;
 }
 
 .project-card__link_type_secondary {
@@ -64,5 +75,19 @@
 }
 
 .project-card__link:hover {
-  opacity: 0.85;
+  opacity: 0.8;
+}
+
+.project-card__link_type_secondary:hover {
+  background-color: var(--color-hover-secondary);
+}
+
+@media (max-width: 768px) {
+  .project-card__content {
+    padding: 24px;
+  }
+
+  .project-card__title {
+    font-size: 24px;
+  }
 }

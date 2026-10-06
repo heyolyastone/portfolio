@@ -62,7 +62,13 @@
   text-decoration: none;
   transition:
     background-color 0.2s ease,
-    color 0.2s ease;
+    color 0.2s ease,
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.hero__button:hover {
+  transform: translateY(-2px);
 }
 
 .hero__button_type_primary {
@@ -71,7 +77,7 @@
 }
 
 .hero__button_type_primary:hover {
-  opacity: 0.9;
+  opacity: 0.85;
 }
 
 .hero__button_type_secondary {
@@ -81,4 +87,37 @@
 
 .hero__button_type_secondary:hover {
   background-color: var(--color-hover-secondary);
+}
+
+@media (max-width: 768px) {
+  .hero {
+    min-height: auto;
+    padding: 130px 24px 72px;
+  }
+
+  .hero__greeting {
+    font-size: 18px;
+  }
+
+  .hero__name {
+    font-size: 48px;
+  }
+
+  .hero__title {
+    margin-top: 16px;
+    font-size: 26px;
+  }
+
+  .hero__blurb {
+    margin-top: 20px;
+    font-size: 17px;
+  }
+
+  .hero__actions {
+    flex-direction: column;
+  }
+
+  .hero__button {
+    width: 100%;
+  }
 }

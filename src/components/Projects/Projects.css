@@ -25,3 +25,24 @@
   padding: 0;
   list-style: none;
 }
+
+@media (max-width: 1024px) {
+  .projects__list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .projects {
+    padding: 72px 24px;
+  }
+
+  .projects__title {
+    margin-bottom: 32px;
+    font-size: 38px;
+  }
+
+  .projects__list {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,6 +1,6 @@
 import type { SkillGroup } from "../types";
 
-export const skills: SkillGroup[] = [
+export const skillGroups: SkillGroup[] = [
   {
     category: "Languages",
     items: ["JavaScript", "TypeScript", "HTML", "CSS"],
