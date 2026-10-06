@@ -1,19 +1,19 @@
 import type { Project } from "../types";
-import workspacehubImg from "../assets/projects/workspacehub.svg";
+import flashcardsImg from "../assets/projects/workspacehub.svg";
 import meshaiImg from "../assets/projects/meshai.svg";
 import recipeBrowserImg from "../assets/projects/recipe-browser.svg";
 
 export const projects: Project[] = [
   {
-    id: "workspacehub",
-    name: "WorkspaceHub",
+    id: "flashcards",
+    name: "Flashcard App",
     description: [
-      "A full-stack workspace management application built with React, TypeScript, Node.js, Express, and MongoDB.",
-      "Includes projects, tasks, comments, authentication, role-based permissions, and deployment configuration.",
+      "A study application for viewing, creating, deleting, and practicing flashcard decks.",
+      "Built with HTML, CSS, JavaScript, Fetch API, REST API integration, and GitHub Pages.",
     ],
-    image: workspacehubImg,
-    githubUrl: "https://github.com/heyolyastone/ai-se_project_workspacehub",
-    liveUrl: "#",
+    image: flashcardsImg,
+    githubUrl: "https://github.com/heyolyastone/ai-se_project_flashcards",
+    liveUrl: "https://heyolyastone.github.io/ai-se_project_flashcards/",
   },
   {
     id: "meshai",
@@ -24,17 +24,17 @@ export const projects: Project[] = [
     ],
     image: meshaiImg,
     githubUrl: "https://github.com/heyolyastone/ai-se_project_mesh-ai",
-    liveUrl: "#",
+    liveUrl: "https://meshai-olga.mooo.com",
   },
   {
     id: "recipe-browser",
     name: "Recipe Browser",
     description: [
-      "A recipe browsing application with user authentication and protected functionality.",
-      "Built with frontend and backend authentication flows and reusable application components.",
+      "A recipe browsing application built with React and TypeScript.",
+      "Features reusable components and a responsive interface for browsing recipe content.",
     ],
     image: recipeBrowserImg,
-    githubUrl: "https://github.com/heyolyastone/ai-se_recipe-browser-auth",
-    liveUrl: "#",
+    githubUrl: "https://github.com/heyolyastone/ai-se_recipe-browser",
+    liveUrl: "https://ai-se-recipe-browser-git-main-triple-ten2.vercel.app/",
   },
 ];

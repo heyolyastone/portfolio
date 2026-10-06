@@ -5,9 +5,9 @@ export const profile: Profile = {
   title: "Software Engineer",
   blurb:
     "Software engineering student building full-stack web applications with React, TypeScript, Node.js, Express, and MongoDB.",
-  email: "your-email@example.com",
+  email: "olgastoneus@gmail.com",
   githubUrl: "https://github.com/heyolyastone",
-  linkedinUrl: "#",
+  linkedinUrl: "https://www.linkedin.com/in/olga-s-8a8550399/",
   locationUrl:
     "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+CA",
   locationText: "Los Angeles, CA",
