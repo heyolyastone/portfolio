@@ -1,0 +1,31 @@
+:root {
+  --color-text-primary: #121212;
+  --color-text-secondary: #808080;
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #c5e0fc;
+  --color-blue: #3f96f3;
+  --color-hover-secondary: #c5e0fc;
+
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  color: var(--color-text-primary);
+  background-color: var(--color-bg-primary);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background-color: var(--color-bg-primary);
+}
+
+button,
+a {
+  font: inherit;
+}
