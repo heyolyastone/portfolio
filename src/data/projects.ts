@@ -1,7 +1,7 @@
 import type { Project } from "../types";
-import flashcardsImg from "../assets/projects/workspacehub.svg";
-import meshaiImg from "../assets/projects/meshai.svg";
-import recipeBrowserImg from "../assets/projects/recipe-browser.svg";
+import flashcardsImg from "../assets/projects/flashcards.png";
+import meshaiImg from "../assets/projects/meshai.png";
+import recipeBrowserImg from "../assets/projects/recipe-browser.png";
 
 export const projects: Project[] = [
   {
