@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#eef4ff"/>
+  <rect x="120" y="100" width="960" height="500" rx="24" fill="#ffffff"/>
+  <text x="600" y="330" text-anchor="middle" font-family="Arial" font-size="64" font-weight="700" fill="#121212">WorkspaceHub</text>
+  <text x="600" y="400" text-anchor="middle" font-family="Arial" font-size="28" fill="#808080">Full-stack workspace management</text>
+</svg>
