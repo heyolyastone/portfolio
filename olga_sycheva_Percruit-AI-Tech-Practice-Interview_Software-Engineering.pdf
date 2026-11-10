@@ -1,0 +1,596 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 7 /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 5258 >>
+stream
+0.12 0.22 0.31 rg
+BT /F2 19 Tf 1 0 0 1 54 745 Tm (Tech Mock Interview) Tj ET
+0.27 0.36 0.44 rg
+BT /F1 10 Tf 1 0 0 1 54 723 Tm (Olga Sycheva  |  Software Engineering  |  Career Sprint) Tj ET
+0.42 0.48 0.53 rg
+BT /F1 9 Tf 1 0 0 1 54 706 Tm (November 10, 2026  |  6:56-7:15 PM Hungary Time / 12:56-1:15 PM ET) Tj ET
+0.76 0.81 0.84 RG 0.8 w 54 695 m 558 695 l S
+0.23 0.34 0.42 rg
+BT /F2 9.5 Tf 1 0 0 1 54 678 Tm (FULL TRANSCRIPT) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 653.0 Tm (AI Interviewer   ∑   06:56 PM Hungary Time ∑ 12:56 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 637.0 Tm (Hi! I'm your AI interviewer for the Tech Mock ó Software Engineering. This is a required interview for your) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 623.6 Tm (Career Sprint, and I'll ask you a set of questions one at a time. Take your time. Are you ready to begin?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 599.0 Tm (Olga Sycheva   ∑   06:56 PM Hungary Time ∑ 12:56 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 583.0 Tm (Yes.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 558.4 Tm (AI Interviewer   ∑   06:56 PM Hungary Time ∑ 12:56 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 542.4 Tm (Great. Let's get started.) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 525.0 Tm (Can you explain the difference between var, let, and const, and when you'd use each?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 500.4 Tm (Olga Sycheva   ∑   06:57 PM Hungary Time ∑ 12:57 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 484.4 Tm (Can you repeat the question, please?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 459.8 Tm (AI Interviewer   ∑   06:57 PM Hungary Time ∑ 12:57 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 443.8 Tm (Of course. Can you explain the difference between var, let, and const, and when you'd use each?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 419.2 Tm (Olga Sycheva   ∑   06:57 PM Hungary Time ∑ 12:57 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 403.2 Tm (So var, let, and const are used to declare variables in JavaScript. Var, uh, is the older way and has function) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 389.8 Tm (scope. Let has block scope and always asks to change the value. Const also has block scope, but we cannot) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 376.4 Tm (reassign it. I usually use const by default, let when the value needs to change, and I avoid var in modern) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 363.0 Tm (JavaScript.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 338.4 Tm (AI Interviewer   ∑   06:57 PM Hungary Time ∑ 12:57 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 322.4 Tm (Thank you. You mentioned that you avoid var in modern JavaScript. Can you walk me through a specific) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 309.0 Tm (situation where using var caused a problem, or where switching to let or const made a difference in your) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 295.6 Tm (code?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 271.0 Tm (Olga Sycheva   ∑   06:58 PM Hungary Time ∑ 12:58 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 255.0 Tm (I haven't had a specific problem with var in my projects, but I understand the risk. For example, var can be) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 241.6 Tm (assessed outside a block, which may cause an experienced behavior. Using let or const make the code easier) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 228.2 Tm (to understand and helps prevent mistakes. That's why I prefer them in my projects.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 203.6 Tm (AI Interviewer   ∑   06:58 PM Hungary Time ∑ 12:58 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 187.6 Tm (Got it. Now, can you explain the MERN stack architecture and how the components ó MongoDB, Express,) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 174.2 Tm (React, and Node ó interact with each other?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 149.6 Tm (Olga Sycheva   ∑   06:59 PM Hungary Time ∑ 12:59 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 133.6 Tm (The MERN stacks include MongoB- MongoDB, Express, React, and Node. React is a front end where users) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 120.2 Tm (interact with the application. Node and Express handle the back end, including API request and business logic.) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 106.8 Tm (MongoDB stores the application data. When the user pla- performs an action in React, the front end send a) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 93.4 Tm (request to the back end. Express process the request, communicate it with MongoDB if needed, andsend a) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 80.0 Tm (response back to React. So together, these technologies allow us to build a complete full-stack application.) Tj ET
+0.77 0.82 0.85 RG 0.5 w 54 54 m 558 54 l S
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 54 39.0 Tm (Olga Sycheva  |  TripleTen Tech Mock Interview) Tj ET
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 496 39.0 Tm (Page 1 of 7) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 5139 >>
+stream
+0.32 0.39 0.45 rg
+BT /F2 9.5 Tf 1 0 0 1 54 757 Tm (TECH MOCK INTERVIEW  |  OLGA SYCHEVA) Tj ET
+0.76 0.81 0.84 RG 0.6 w 54 746 m 558 746 l S
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 722.0 Tm (AI Interviewer   ∑   06:59 PM Hungary Time ∑ 12:59 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 706.0 Tm (Thank you. You described the flow from React to Express to MongoDB and back. Can you tell me about a) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 692.6 Tm (specific project where you built something using this stack, and what your role was in putting those pieces) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 679.2 Tm (together?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 654.6 Tm (Olga Sycheva   ∑   06:59 PM Hungary Time ∑ 12:59 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 638.6 Tm (Absolutely. So...) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 614.0 Tm (AI Interviewer   ∑   06:59 PM Hungary Time ∑ 12:59 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 598.0 Tm (Take your time.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 573.4 Tm (Olga Sycheva   ∑   07:00 PM Hungary Time ∑ 01:00 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 557.4 Tm (Well, in, uh, my Workspace Hub project, I work on task comments f- future using the MERN stack. I connected) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 544.0 Tm (the React front end to the Express API, which handled request and stored data in MongoDB. My main) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 530.6 Tm (responsibility was implementing the comments feature, adding permission checks, and testing different user) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 517.2 Tm (roles. I also made sure that only authorized users could edit or delete comments. This project helped me) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 503.8 Tm (understand how allparts of full stack application work together.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 479.2 Tm (AI Interviewer   ∑   07:00 PM Hungary Time ∑ 01:00 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 463.2 Tm (Good. Shifting gears a little ó how do you hand off your code or documentation for others to continue building) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 449.8 Tm (on it?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 425.2 Tm (Olga Sycheva   ∑   07:00 PM Hungary Time ∑ 01:00 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 409.2 Tm (...) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 384.6 Tm (AI Interviewer   ∑   07:00 PM Hungary Time ∑ 01:00 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 368.6 Tm (Take your moment. Would you like me to repeat the question?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 344.0 Tm (Olga Sycheva   ∑   07:01 PM Hungary Time ∑ 01:01 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 328.0 Tm (So, I use GitHub to organize and share my code. I write clear README files explaining the project, how to) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 314.6 Tm (install and run it, and the main features. I also use meaningful comment, commit messages, and add comments) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 301.2 Tm (when the code is complex. My goal is to make it easier for another developer to understand my work and) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 287.8 Tm (continue building on it.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 263.2 Tm (AI Interviewer   ∑   07:01 PM Hungary Time ∑ 01:01 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 247.2 Tm (You mentioned writing comments when the code is complex. Can you walk me through a specific time you) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 233.8 Tm (handed off code to someone else, and how they found it to work with?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 209.2 Tm (Olga Sycheva   ∑   07:02 PM Hungary Time ∑ 01:02 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 193.2 Tm (Yes, absolutely. Uh, during my studying on Triple Ten program, um, I used to, um... I used to send some) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 179.8 Tm (comments, but I haven't done a formal code hand- handoff to another developer. But I've shared my projects) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 166.4 Tm (with Triple Ten reviewers through the GitHub with the comments. For example, when I submitted my portfolio,) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 153.0 Tm (a reviewer tested it and found problems with the deployment and the missing fav icon.This feedback helped) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 139.6 Tm (me understand what another person might experience when working with my project. It helped me to check,) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 126.2 Tm (uh, accessibility to improve clear documentation before sharing my code.) Tj ET
+0.77 0.82 0.85 RG 0.5 w 54 54 m 558 54 l S
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 54 39.0 Tm (Olga Sycheva  |  TripleTen Tech Mock Interview) Tj ET
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 496 39.0 Tm (Page 2 of 7) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 5044 >>
+stream
+0.32 0.39 0.45 rg
+BT /F2 9.5 Tf 1 0 0 1 54 757 Tm (TECH MOCK INTERVIEW  |  OLGA SYCHEVA) Tj ET
+0.76 0.81 0.84 RG 0.6 w 54 746 m 558 746 l S
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 722.0 Tm (AI Interviewer   ∑   07:02 PM Hungary Time ∑ 01:02 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 706.0 Tm (Thank you for sharing that. Now, imagine you've identified a critical bug in a system that needs immediate) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 692.6 Tm (attention. How would you communicate this issue to both your technical lead and a non-technical stakeholder,) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 679.2 Tm (ensuring they both understand the urgency and impact?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 654.6 Tm (Olga Sycheva   ∑   07:03 PM Hungary Time ∑ 01:03 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 638.6 Tm (Well, first, I would inform my technical lead about the bug, explain what is causing it, if I know, and share how) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 625.2 Tm (it affect the system. Uh, I would also explain the urgency and suggest possible solution. For a non-technical) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 611.8 Tm (stakeholder, I would use simple language and focus on business impact, such as users being unable to access) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 598.4 Tm (the application. Uh, I would explain what we are doing to fix and, uh, keep both updated.On our progress.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 573.8 Tm (AI Interviewer   ∑   07:03 PM Hungary Time ∑ 01:03 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 557.8 Tm (You mentioned focusing on business impact for the non-technical stakeholder. Can you walk me through a) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 544.4 Tm (specific time you had to communicate something urgent or technical to someone without a technical) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 531.0 Tm (background, and how that conversation went?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 506.4 Tm (Olga Sycheva   ∑   07:03 PM Hungary Time ∑ 01:03 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 490.4 Tm (...) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 465.8 Tm (AI Interviewer   ∑   07:03 PM Hungary Time ∑ 01:03 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 449.8 Tm (Take your time. Would you like me to repeat the question?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 425.2 Tm (Olga Sycheva   ∑   07:03 PM Hungary Time ∑ 01:03 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 409.2 Tm (Yes.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 384.6 Tm (AI Interviewer   ∑   07:03 PM Hungary Time ∑ 01:03 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 368.6 Tm (Can you walk me through a specific time you had to communicate something urgent or technical to someone) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 355.2 Tm (without a technical background, and how that conversation went?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 330.6 Tm (Olga Sycheva   ∑   07:04 PM Hungary Time ∑ 01:04 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 314.6 Tm (Well, I haven't had that exact situation in software development role yet, but I have related example from my) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 301.2 Tm (portfolio project. The website worked locally, but visitors could, uh, couldn't access it because of the Vercel) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 287.8 Tm (settings. I learned to explain the problem in simple terms, focusing on how it affect users rather than technical) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 274.4 Tm (details.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 249.8 Tm (AI Interviewer   ∑   07:04 PM Hungary Time ∑ 01:04 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 233.8 Tm (Got...) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 209.2 Tm (Olga Sycheva   ∑   07:04 PM Hungary Time ∑ 01:04 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 193.2 Tm (I would use the same approach with non-technical stakeholders and clearly explain the next steps.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 168.6 Tm (AI Interviewer   ∑   07:04 PM Hungary Time ∑ 01:04 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 152.6 Tm (Got it. Let's turn to this scenario: you're working on a feature, and halfway through, a new requirement comes) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 139.2 Tm (in that significantly changes the scope and introduces a tight deadline. How do you approach this situation,) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 125.8 Tm (and what steps would you take to manage the change and ensure a successful outcome?) Tj ET
+0.77 0.82 0.85 RG 0.5 w 54 54 m 558 54 l S
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 54 39.0 Tm (Olga Sycheva  |  TripleTen Tech Mock Interview) Tj ET
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 496 39.0 Tm (Page 3 of 7) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 5451 >>
+stream
+0.32 0.39 0.45 rg
+BT /F2 9.5 Tf 1 0 0 1 54 757 Tm (TECH MOCK INTERVIEW  |  OLGA SYCHEVA) Tj ET
+0.76 0.81 0.84 RG 0.6 w 54 746 m 558 746 l S
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 722.0 Tm (Olga Sycheva   ∑   07:05 PM Hungary Time ∑ 01:05 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 706.0 Tm (First, I would clarify the new requirements and understand how they affect the deadline. I think this is) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 692.6 Tm (important. Then I would review the exist- the existing work and identify what needs to change. I would) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 679.2 Tm (prioritize the most important features and discuss the timeline with my team. If necessary, I would suggest) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 665.8 Tm (moving less important tasks to a later release. I would also communicate progress regularly and test the) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 652.4 Tm (changes carefully.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 627.8 Tm (AI Interviewer   ∑   07:05 PM Hungary Time ∑ 01:05 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 611.8 Tm (You mentioned discussing the timeline with your team and possibly moving tasks to a later release. Can you) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 598.4 Tm (tell me about a specific time you had to reprioritize or adjust your work because something unexpected came) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 585.0 Tm (up, and what you actually did?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 560.4 Tm (Olga Sycheva   ∑   07:05 PM Hungary Time ∑ 01:05 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 544.4 Tm (...) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 519.8 Tm (AI Interviewer   ∑   07:05 PM Hungary Time ∑ 01:05 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 503.8 Tm (Take your time. Are you still there?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 479.2 Tm (Olga Sycheva   ∑   07:06 PM Hungary Time ∑ 01:06 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 463.2 Tm (Yes. During my portfolio project, I received unexpected feedback about two issues. The website wasn't) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 449.8 Tm (publicly acceptable and file icon was missing. I had to adjust my priorities, so I focused on deployment problem) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 436.4 Tm (first because the visitors couldn't open my portfolio. Um, I realized that later. I checked the Vercel settings) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 423.0 Tm (before moving on to smaller issue. This experience taught me to stay flexible and focus on what matters most) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 409.6 Tm (to users.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 385.0 Tm (AI Interviewer   ∑   07:06 PM Hungary Time ∑ 01:06 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 369.0 Tm (Thank you. Now, how do you test your applications? What tools or frameworks have you used?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 344.4 Tm (Olga Sycheva   ∑   07:07 PM Hungary Time ∑ 01:07 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 328.4 Tm (Well, I used, uh, some tools and framework in my work, and usually, uh, it h- it helps, um, with the Chrome) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 315.0 Tm (dev- dev tools and IPA testing. I checked, um, how features work in the browser, looks, look for console) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 301.6 Tm (errors, and inspect network request and IPA responses. For example, in Workspace Hub, I tested different user) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 288.2 Tm (permission, and in Flashcard, I checked API data tofind and fix errors. I haven't used automatics testing) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 274.8 Tm (frameworks, uh, extensively yet, but I'm interesting in learning Jest and React Testing Library.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 250.2 Tm (AI Interviewer   ∑   07:07 PM Hungary Time ∑ 01:07 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 234.2 Tm (You mentioned testing different user permissions in Workspace Hub. Can you walk me through what that) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 220.8 Tm (testing actually looked like ó what you checked, and how you caught or fixed any issues?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 196.2 Tm (Olga Sycheva   ∑   07:08 PM Hungary Time ∑ 01:08 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 180.2 Tm (In Workspace Hub, I tested which users could edit or delete comments. I checked the permissions for comment) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 166.8 Tm (authors, administrators, and regular users. I also tested direct API requests to make sure users couldn't) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 153.4 Tm (bypass the front-end re- restriction. I found the front-end checks alone weren't enough, so I added) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 140.0 Tm (server-side permission checks and tested the different roles again to confirm the rules worked correctly.) Tj ET
+0.77 0.82 0.85 RG 0.5 w 54 54 m 558 54 l S
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 54 39.0 Tm (Olga Sycheva  |  TripleTen Tech Mock Interview) Tj ET
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 496 39.0 Tm (Page 4 of 7) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 5668 >>
+stream
+0.32 0.39 0.45 rg
+BT /F2 9.5 Tf 1 0 0 1 54 757 Tm (TECH MOCK INTERVIEW  |  OLGA SYCHEVA) Tj ET
+0.76 0.81 0.84 RG 0.6 w 54 746 m 558 746 l S
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 722.0 Tm (AI Interviewer   ∑   07:08 PM Hungary Time ∑ 01:08 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 706.0 Tm (Good. Now, how do you stay current with new frameworks, tools, and libraries?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 681.4 Tm (Olga Sycheva   ∑   07:08 PM Hungary Time ∑ 01:08 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 665.4 Tm (Reading, exploring, finding solution, reading internet. I stay, uh, I stay current by following official) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 652.0 Tm (documentation in TripleTen program, taking courses, and practicing with real projects. Um, so I'm learning) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 638.6 Tm (React, Node, and TypeScript. Um, I also use GitHub developer commun- communities and AI tools to explore) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 625.2 Tm (new technologies. I believe the best way to learn is to apply new knowledge in practice.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 600.6 Tm (AI Interviewer   ∑   07:08 PM Hungary Time ∑ 01:08 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 584.6 Tm (You mentioned using AI tools to explore new technologies. Can you give me a specific example of a time you) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 571.2 Tm (used an AI tool to learn something new, and what you actually built or applied from that?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 546.6 Tm (Olga Sycheva   ∑   07:09 PM Hungary Time ∑ 01:09 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 530.6 Tm (Um, yes. I used AI while learning Node and TypeScript for my MeshAI project. Uh, at first, I had trouble) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 517.2 Tm (understanding how to set up to backend and run the application, so I used AI to explain the project structure,) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 503.8 Tm (terminal commands, and error message step by step. Then I applied what I learned in VS Code and tested the) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 490.4 Tm (application myself. It helped me become more confident with the backend development.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 465.8 Tm (AI Interviewer   ∑   07:09 PM Hungary Time ∑ 01:09 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 449.8 Tm (Thank you. Now, tell me about a time you had to deliver difficult news or feedback to a colleague or manager.) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 436.4 Tm (How did you approach the situation, and what was the outcome?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 411.8 Tm (Olga Sycheva   ∑   07:09 PM Hungary Time ∑ 01:09 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 395.8 Tm (Could you repeat the question, please?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 371.2 Tm (AI Interviewer   ∑   07:09 PM Hungary Time ∑ 01:09 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 355.2 Tm (Of course. Tell me about a time you had to deliver difficult news or feedback to a colleague or manager. How) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 341.8 Tm (did you approach the situation, and what was the outcome?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 317.2 Tm (Olga Sycheva   ∑   07:10 PM Hungary Time ∑ 01:10 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 301.2 Tm (Well, I think during my workspace hub project, I had to explain to my teammates that our comments permission) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 287.8 Tm (checks might not be secure enough. I explained the users could potentially bypass the front-end checks) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 274.4 Tm (through direct API request. I focused on problem, not blaming anyone, suggesting adding service side) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 261.0 Tm (validation. We agreed on approach and improved the permission checks. It taught me that difficult feedback) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 247.6 Tm (should be clear, respectful, and focused on solution.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 223.0 Tm (AI Interviewer   ∑   07:10 PM Hungary Time ∑ 01:10 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 207.0 Tm (You mentioned your teammates agreed on the approach. How did they initially react when you raised the) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 193.6 Tm (security concern, and was there any pushback?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 169.0 Tm (Olga Sycheva   ∑   07:11 PM Hungary Time ∑ 01:11 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 153.0 Tm (Well, um, it's easy to communicate when you understand. And so my teammates were open to discuss the) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 139.6 Tm (concern, and there wasn't any major pushback. I explained how direct API requests could bypass front-end) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 126.2 Tm (permission checks. We discussed the risk, and then we agreed that service-side validation was necessary. So) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 112.8 Tm (then I focused on implementing and testing those checks. Overall, it was a constructivedecision.) Tj ET
+0.77 0.82 0.85 RG 0.5 w 54 54 m 558 54 l S
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 54 39.0 Tm (Olga Sycheva  |  TripleTen Tech Mock Interview) Tj ET
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 496 39.0 Tm (Page 5 of 7) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 5830 >>
+stream
+0.32 0.39 0.45 rg
+BT /F2 9.5 Tf 1 0 0 1 54 757 Tm (TECH MOCK INTERVIEW  |  OLGA SYCHEVA) Tj ET
+0.76 0.81 0.84 RG 0.6 w 54 746 m 558 746 l S
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 722.0 Tm (AI Interviewer   ∑   07:11 PM Hungary Time ∑ 01:11 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 706.0 Tm (Good. Now, thinking about a different kind of challenge ó you are building a simple chat feature for a web app.) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 692.6 Tm (What are the main pieces you would need, front end, back end, and where messages get stored, and how would) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 679.2 Tm (they talk to each other?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 654.6 Tm (Olga Sycheva   ∑   07:12 PM Hungary Time ∑ 01:12 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 638.6 Tm (I would use React for the front end, where users can type, send, and view messages. On the back end, I would) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 625.2 Tm (use Node and Express to handle requests and manage the message. MongoDB could store the messages,) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 611.8 Tm (including the sender, text, and timestamp. When a user send a message, React send it to the back end, which) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 598.4 Tm (saves it in MongoDB. Uh, then the message ap- appears in the chat. For real-time updates, I could use) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 585.0 Tm (websockets to u- so users receive new messages without refreshing the page.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 560.4 Tm (AI Interviewer   ∑   07:12 PM Hungary Time ∑ 01:12 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 544.4 Tm (You mentioned WebSockets for real-time updates. Can you walk me through how that connection would) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 531.0 Tm (actually work ó what happens on both the front end and the back end when a new message is sent?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 506.4 Tm (Olga Sycheva   ∑   07:13 PM Hungary Time ∑ 01:13 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 490.4 Tm (First, the React front end opens a WebSocket connection to the server. The Node back end keeps the) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 477.0 Tm (connection open. When a user send a message, the front end send it to the server through the WebSocket. The) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 463.6 Tm (server checks the message, saves it in MongoDB, and send it to users in the chat. On the front end, React) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 450.2 Tm (receive the new message and up- updates the chat immediately without refreshing the page.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 425.6 Tm (AI Interviewer   ∑   07:13 PM Hungary Time ∑ 01:13 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 409.6 Tm (Thank you. Last one ó a user updates their profile and, for a moment, still sees their old details on another) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 396.2 Tm (page. What could cause that, and how would you go about investigating it?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 371.6 Tm (Olga Sycheva   ∑   07:14 PM Hungary Time ∑ 01:14 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 355.6 Tm (I think, uh, that could happen 'cause of caching, delaying database updates, or outdated data in React state.) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 342.2 Tm (First, I guess I would check the... if the new profile information was saved correctly in a database. Then I) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 328.8 Tm (would use Chrome devel- DevTo- DevTools to inspect the API response and see if it returns the updated data.) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 315.4 Tm (If the API returns the correct information, I would check the front-end state and caching. I would also test the) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 302.0 Tm (issueagain to make sure the updated profile appears correctly on every page.) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 277.4 Tm (AI Interviewer   ∑   07:14 PM Hungary Time ∑ 01:14 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 261.4 Tm (You mentioned checking the front-end state as one of your steps. Can you be more specific about what you) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 248.0 Tm (would actually look for in the React state, and how you would go about fixing it if that turned out to be the) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 234.6 Tm (cause?) Tj ET
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 210.0 Tm (Olga Sycheva   ∑   07:14 PM Hungary Time ∑ 01:14 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 194.0 Tm (I would check if the React state still connects to the old profile information. For example, one page might have) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 180.6 Tm (updated the data, but another page could still be using an old copy. So, yeah, that could be a problem. I would) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 167.2 Tm (use React developer tools to inspect the state and check w- whether it updates after the API request. If the) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 153.8 Tm (state is outdated, I would update the shared state or refresh the user data after saving the profile. ThenI would) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 140.4 Tm (test both pages to make sure they display the correct information.) Tj ET
+0.77 0.82 0.85 RG 0.5 w 54 54 m 558 54 l S
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 54 39.0 Tm (Olga Sycheva  |  TripleTen Tech Mock Interview) Tj ET
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 496 39.0 Tm (Page 6 of 7) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 886 >>
+stream
+0.32 0.39 0.45 rg
+BT /F2 9.5 Tf 1 0 0 1 54 757 Tm (TECH MOCK INTERVIEW  |  OLGA SYCHEVA) Tj ET
+0.76 0.81 0.84 RG 0.6 w 54 746 m 558 746 l S
+0.25 0.39 0.51 rg
+BT /F2 8.1 Tf 1 0 0 1 54 722.0 Tm (AI Interviewer   ∑   07:15 PM Hungary Time ∑ 01:15 PM ET) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 706.0 Tm (Thank you. That brings us to the end of the interview. I really appreciate the time and thought you put into your) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 692.6 Tm (answers today. The interview is now complete and will be scored. Best of luck with the rest of your) Tj ET
+0.16 0.20 0.25 rg
+BT /F1 9.35 Tf 1 0 0 1 54 679.2 Tm (programme!) Tj ET
+0.77 0.82 0.85 RG 0.5 w 54 54 m 558 54 l S
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 54 39.0 Tm (Olga Sycheva  |  TripleTen Tech Mock Interview) Tj ET
+0.49 0.54 0.59 rg
+BT /F1 7.5 Tf 1 0 0 1 496 39.0 Tm (Page 7 of 7) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000162 00000 n 
+0000000259 00000 n 
+0000000361 00000 n 
+0000005670 00000 n 
+0000005806 00000 n 
+0000010996 00000 n 
+0000011132 00000 n 
+0000016227 00000 n 
+0000016364 00000 n 
+0000021867 00000 n 
+0000022005 00000 n 
+0000027725 00000 n 
+0000027863 00000 n 
+0000033745 00000 n 
+0000033883 00000 n 
+0000034820 00000 n 
+trailer
+<< /Size 19 /Root 1 0 R >>
+startxref
+34958
+%%EOF
